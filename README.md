@@ -1,11 +1,11 @@
 # School Management System (C++)
 
 ## Project Overview
-This project simulates a queue system (a "first-in, first-out" (FIFO) service queue), such as a bill payment queue. 
-The system operates by issuing tickets, each containing the following: (number, prefix, ticket issuance time, and number of people waiting). 
-The system calculates the waiting time for each ticket based on the average service time and the number of people in the queue. 
-Queue information is printed on the ticket. 
-Once a customer is served, they are removed from the queue.
+This project simulates a queue system (a "first-in, first-out" (FIFO) service queue), such as a bill payment queue.<br>
+The system operates by issuing tickets, each containing the following: (number, prefix, ticket issuance time, and number of people waiting).<br> 
+The system calculates the waiting time for each ticket based on the average service time and the number of people in the queue. <br>
+Queue information is printed on the ticket.<br> 
+Once a customer is served, they are removed from the queue.<br>
 
 ## Project Architecture
 The project architecture is based on an Abstraction Layer on top of a Data Structure.
